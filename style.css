@@ -3,3 +3,4 @@
 h1,h2,h3,.card strong,.work-card strong{word-break:keep-all;overflow-wrap:break-word}.hero h1{white-space:pre-line;font-size:clamp(30px,3.5vw,44px)}.metric strong{font-size:24px;overflow-wrap:anywhere}
 
 .brand-mark{display:grid;place-items:center;width:42px;height:42px;border-radius:12px;background:var(--navy);color:#c4e9e9;font-size:28px;font-weight:800;line-height:1}#brand strong{font-size:28px;letter-spacing:-1px}
+#career>.option{margin:6px 0}#career .check{padding:16px;background:white;border:1px solid var(--border);border-radius:12px;font-size:16px}#career li{margin:15px 0}#career label{font-size:16px}fieldset{border:1px solid var(--border);border-radius:12px}button:disabled{cursor:not-allowed;opacity:.6}
